@@ -4,3 +4,4 @@ Send solutions to `lengal🐉fit.vut.cz` where 🐉 is `@` with subject `[AoTIN'
 
 ## Tasks
 * 4\. 12\. 2024: [01](/01.pdf)
+* 6\. 12\. 2024: [02](/02.pdf)
